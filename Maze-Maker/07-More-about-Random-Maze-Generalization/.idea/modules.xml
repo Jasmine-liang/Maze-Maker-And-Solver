@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Problem-about-Current-Random-Maze-Generalization/01-Problem-about-Current-Random-Maze-Generalization.iml" filepath="$PROJECT_DIR$/01-Problem-about-Current-Random-Maze-Generalization/01-Problem-about-Current-Random-Maze-Generalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-More-about-Random-Maze-Generalization/02-More-about-Random-Maze-Generalization.iml" filepath="$PROJECT_DIR$/02-More-about-Random-Maze-Generalization/02-More-about-Random-Maze-Generalization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-More-about-Random-Maze-Generalization-with-Maze-Solver/03-More-about-Random-Maze-Generalization-with-Maze-Solver.iml" filepath="$PROJECT_DIR$/03-More-about-Random-Maze-Generalization-with-Maze-Solver/03-More-about-Random-Maze-Generalization-with-Maze-Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/07-More-about-Random-Maze-Generalization.iml" filepath="$PROJECT_DIR$/.idea/07-More-about-Random-Maze-Generalization.iml" />
+    </modules>
+  </component>
+</project>
