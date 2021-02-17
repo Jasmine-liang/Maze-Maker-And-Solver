@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Maze-Solver/01-Maze-Files-Processing/01-Maze-Files-Processing.iml" filepath="$PROJECT_DIR$/Maze-Solver/01-Maze-Files-Processing/01-Maze-Files-Processing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze-Solver/02-Maze-Visualization/02-Maze-Visualization.iml" filepath="$PROJECT_DIR$/Maze-Solver/02-Maze-Visualization/02-Maze-Visualization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze-Solver/03-DFS-Maze-Solver/03-DFS-Maze-Solver.iml" filepath="$PROJECT_DIR$/Maze-Solver/03-DFS-Maze-Solver/03-DFS-Maze-Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze-Solver/04-Non-Recursive-DFS-Maze-Solver/04-Non-Recursive-DFS-Maze-Solver.iml" filepath="$PROJECT_DIR$/Maze-Solver/04-Non-Recursive-DFS-Maze-Solver/04-Non-Recursive-DFS-Maze-Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze-Solver/05-BFS-Maze-Solver/05-BFS-Maze-Solver.iml" filepath="$PROJECT_DIR$/Maze-Solver/05-BFS-Maze-Solver/05-BFS-Maze-Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Maze-Maker-And-Solver.iml" filepath="$PROJECT_DIR$/.idea/Maze-Maker-And-Solver.iml" />
+    </modules>
+  </component>
+</project>
